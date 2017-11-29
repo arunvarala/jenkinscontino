@@ -1,5 +1,5 @@
-node('java8') {
-
+pipeline {
+stages
   stage('Configure') {
    echo 'Helloworld'
   }
